@@ -22,7 +22,7 @@ Implement a comparator ADT called LexLessThan which performs a lexicographic com
 
 Implement a crossover operator in which you sample two parents and create two children by swapping random subtrees from each parent. Note there is no placeholder code for crossover in the prexisting code from the directory. You must determine where and how to add this feature. When results are ready, add a line to your plot labelled “rand init + crossover + mutation” to show the results of this experiment. <br>
 
-# Data Graphing and Explanation
+# Data Collection and Results
 The following finalized code with implemented functions from the section above was to be ran, and results were to be plotted and graphed for each time a new function was added, including the required plots for the LexLessThan and crossover implementations. You should see a significant improvement in the best fitness after implementing createRandExpressionTree, and a further improvement after implementing the mutation operators. <br>
 Example terminal output with all functions added: <br>
 Best tree: <br>
